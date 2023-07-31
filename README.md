@@ -38,3 +38,12 @@ Microsoft Excel, Power Query, Data Modelling, Pivot Table
 
 Data Source :
 https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+<img width="609" alt="Booking" src="https://github.com/MuhammadFakhrurradhi/Excel--DataAnalysis-Hospitality-Dashboard/assets/131879017/e17c6b28-f56a-4de7-a511-40d82c751834">
+
+<img width="673" alt="Revenue" src="https://github.com/MuhammadFakhrurradhi/Excel--DataAnalysis-Hospitality-Dashboard/assets/131879017/5d165933-8fa1-4ea2-9900-45911e915d14">
+
+<img width="657" alt="key metrics" src="https://github.com/MuhammadFakhrurradhi/Excel--DataAnalysis-Hospitality-Dashboard/assets/131879017/24b01fb2-d395-43d5-adf6-c3161b0eb063">
+
+
+
